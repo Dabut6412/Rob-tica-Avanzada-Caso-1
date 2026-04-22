@@ -28,7 +28,7 @@ El proyecto implementa:
 |--------|--------|
 | Steve Boza| C11186 |
 | Salomé Wicky | C18655 |
-| Sebastián Gonzáles | C03363 |
+| Sebastián González | C03363 |
 | Daniel Brizuela | C11274 |
 
 ---
